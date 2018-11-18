@@ -1,0 +1,5 @@
+a:3:{s:8:"template";s:7:"ahashop";s:4:"mods";a:10:{i:0;b:0;s:18:"custom_css_post_id";i:-1;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:6;s:8:"top-menu";i:60;}s:12:"show_top_bar";i:1;s:16:"show_search_form";i:1;s:19:"sidebar_shop_layout";s:12:"sidebar-left";s:31:"sidebar_product_taxonomy_layout";s:12:"sidebar-left";s:14:"footer_columns";i:1;s:13:"social_follow";a:5:{s:8:"facebook";s:1:"#";s:6:"google";s:1:"#";s:8:"linkedin";s:1:"#";s:7:"twitter";s:1:"#";s:9:"wordpress";s:1:"#";}s:17:"footer_text_right";s:161:"<i class="fa fa-cc-paypal"></i>
+<i class="fa fa-cc-visa"></i>
+<i class="fa fa-cc-mastercard"></i>
+<i class="fa fa-cc-discover"></i>
+<i class="fa fa-cc-amex"></i>";}s:7:"options";a:2:{s:9:"site_icon";s:2:"27";s:23:"nav_menus_created_posts";a:0:{}}}

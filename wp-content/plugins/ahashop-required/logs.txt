@@ -1,0 +1,9 @@
+1.2
+- Updating: some sharing social
+
+1.1.0
+- Updating: IconBox Carousel Shortcode
+
+1.0.3
+- Changing: shortcode MinWP logo
+- Fixing: shortcode Ahashop tab not displayed

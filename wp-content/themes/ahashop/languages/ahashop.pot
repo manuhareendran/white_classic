@@ -1,0 +1,471 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-22 16:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:21
+#, php-format
+msgid "You can go back to %s or use search"
+msgstr ""
+
+#: 404.php:21
+msgid "Homepage"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50
+msgid "Comments navigation"
+msgstr ""
+
+#: functions.php:54
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Maven Pro, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:114
+msgctxt "Maven Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Raleway, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:124
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Playfair Display, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:135
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:179 inc/class-ahashop-sidebar.php:34
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:181
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:190
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:192
+msgid "Add widgets here to appear in your sidebar on shop page."
+msgstr ""
+
+#: functions.php:201
+#, php-format
+msgid "Footer column %d"
+msgstr ""
+
+#: functions.php:203
+msgid "Add widgets here to appear in footer columns if it is shown."
+msgstr ""
+
+#: header-page-builder.php:23 header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:65
+#, php-format
+msgid ""
+"Ahashop requires at least WordPress version 4.7. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:45 inc/class-ahashop-sidebar.php:99
+msgid "Sidebar layout"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:58
+msgid "Sidebar layout for archive page"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:71
+msgid "Sidebar layout for single page"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:84
+msgid "Sidebar layout for page detail page"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:119
+msgid "Custom sidebar layout"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:121
+msgid "Default"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:187 inc/woocommerce/woocommerce.php:140
+#: inc/woocommerce/woocommerce.php:173 inc/woocommerce/woocommerce.php:189
+msgid "Sidebar right"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:188 inc/woocommerce/woocommerce.php:141
+#: inc/woocommerce/woocommerce.php:174 inc/woocommerce/woocommerce.php:190
+msgid "Sidebar left"
+msgstr ""
+
+#: inc/class-ahashop-sidebar.php:189 inc/woocommerce/woocommerce.php:142
+#: inc/woocommerce/woocommerce.php:175 inc/woocommerce/woocommerce.php:191
+msgid "No sidebar"
+msgstr ""
+
+#: inc/custom-color.php:15
+msgid "Change Color"
+msgstr ""
+
+#: inc/extras.php:167
+msgid "Related posts"
+msgstr ""
+
+#. 1: date, 2: time
+#: inc/extras.php:206
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/extras.php:209
+msgid "(Edit)"
+msgstr ""
+
+#: inc/extras.php:213
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:223
+msgid "reply"
+msgstr ""
+
+#: inc/extras.php:243 inc/extras.php:244
+msgid "Name"
+msgstr ""
+
+#: inc/extras.php:244
+msgid "Name *"
+msgstr ""
+
+#: inc/extras.php:271 inc/extras.php:272
+msgid "Email"
+msgstr ""
+
+#: inc/extras.php:272
+msgid "Email *"
+msgstr ""
+
+#: inc/extras.php:296 inc/extras.php:297
+msgid "Website"
+msgstr ""
+
+#: inc/extras.php:319
+msgid "Comment"
+msgstr ""
+
+#: inc/extras.php:320
+msgid "Comment *"
+msgstr ""
+
+#: inc/template-tags.php:17 inc/customizer/section-logo.php:15
+msgid "Logo"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "0 comment"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "1 comment"
+msgstr ""
+
+#: inc/template-tags.php:132
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "Comments off"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "Read more"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:155
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "Share:"
+msgstr ""
+
+#. Name of the template
+msgid "Page builder"
+msgstr ""
+
+#: inc/customizer/section-blog.php:25
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/section-blog.php:36
+msgid "Content options"
+msgstr ""
+
+#: inc/customizer/section-blog.php:40
+msgid "Full post"
+msgstr ""
+
+#: inc/customizer/section-blog.php:41
+msgid "Post excerpt"
+msgstr ""
+
+#: inc/customizer/section-blog.php:52
+msgid "Show author bio"
+msgstr ""
+
+#: inc/customizer/section-blog.php:64
+msgid "Show related posts"
+msgstr ""
+
+#: inc/customizer/section-blog.php:76
+msgid "Show social sharing"
+msgstr ""
+
+#: inc/customizer/section-footer.php:35
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/section-footer.php:46
+msgid "Show footer columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:58
+msgid "Number of columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:62
+msgid "1 Column"
+msgstr ""
+
+#: inc/customizer/section-footer.php:63
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:64
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:65
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:66
+msgid "5 Columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:67
+msgid "6 Columns"
+msgstr ""
+
+#: inc/customizer/section-footer.php:79
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/section-footer.php:91
+msgid "Footer text right"
+msgstr ""
+
+#: inc/customizer/section-footer.php:92
+msgid "Content in the right of copyright"
+msgstr ""
+
+#: inc/customizer/section-general.php:15
+msgid "General"
+msgstr ""
+
+#: inc/customizer/section-general.php:26
+msgid "Show preloader"
+msgstr ""
+
+#: inc/customizer/section-header.php:27
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/section-header.php:38
+msgid "Header scroll fixed"
+msgstr ""
+
+#: inc/customizer/section-header.php:49
+msgid "Show top bar"
+msgstr ""
+
+#: inc/customizer/section-header.php:60
+msgid "Show search form"
+msgstr ""
+
+#: inc/customizer/section-logo.php:28
+msgid "Desktop logo width"
+msgstr ""
+
+#: inc/customizer/section-logo.php:40
+msgid "Desktop header height"
+msgstr ""
+
+#: inc/customizer/section-logo.php:52
+msgid "Ipad / Tablet logo width"
+msgstr ""
+
+#: inc/customizer/section-logo.php:64
+msgid "Ipad / Tablet header height"
+msgstr ""
+
+#: inc/customizer/section-logo.php:76
+msgid "Mobile logo width"
+msgstr ""
+
+#: inc/customizer/section-logo.php:88
+msgid "Mobile header height"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:34
+msgid "Quick View"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:48
+msgid "out of stock"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:125
+msgid "Sidebar Shop"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:136
+msgid "Sidebar layout for shop page"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:169
+msgid "Sidebar layout for product detail"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:185
+msgid "Sidebar layout for product taxonomy"
+msgstr ""
+
+#: template-parts/header/mini-cart.php:29
+#, php-format
+msgid "Cart / %s"
+msgstr ""
+
+#: template-parts/header/navigation.php:19
+msgid "Toggle navigation"
+msgstr ""
+
+#: template-parts/loop/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/loop/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/loop/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/loop/content-page.php:24
+#: template-parts/loop/content-single.php:31
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/post/post-footer.php:14
+msgid "Tags:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:116
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:30
+msgid "Payment method"
+msgstr ""
+
+#. Name of the theme
+msgid "AhaShop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"AhaShop - a so simple product that only targets at small business models, "
+"will be the fastest way for you to upload products to the Internet. With "
+"only several clicks, you will be able to create an online store likewise "
+"what you really need. Let’s experience AhaShop right away."
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.minwp.com/ahashop"
+msgstr ""
+
+#. Author of the theme
+msgid "minWP"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://minwp.com"
+msgstr ""

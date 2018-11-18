@@ -1,0 +1,65 @@
+1.4.3
+- Updating: compatible with 3.4.3 Woocommerce version
+- Updating: 5.5.2 Visual Composer version
+
+
+1.4.2
+- Updating: compatible with 3.4.2 Woocommerce version
+- Updating: change search product box on header
+- Updating: change CSS logo on desktop & mobile device
+
+- Fixing: link on cart on mobile
+
+1.4.1
+- Updating: compatible with 3.4.0 Woocommerce version
+- Fixing: Mega menu show off on mobile device
+
+1.4
+- Updating: Visual Composer 5.4.7 version
+- Updating: Available with Woocommerce 3.3.5
+- Updating: work fine with WordPress 4.9.6
+- Updating: the layout of single product
+- Updating: user experience better
+- Updating: mobile appearance better
+
+1.3
+- Updating: Visual Composer 5.4.5 version
+- Updating: Available with Woocommerce 3.3.1
+- Updating: ahashop-required plugin 1.2 version
+- Updating: the number of product per shop page setting
+- Updating: the dimension of logo brand setting on desktop, tablet and mobile device
+- Updating: border-color customize feature
+
+- Fixing: Out of date templates from WooCommerce 3.3.3
+
+1.2.1
+- Updating: Visual Composer 5.4.4 version
+
+1.2.0
+- Updating: Visual Composer 5.4.3 version
+- Updating: Available with WordPress 4.9
+- Updating: Available with Woocommerce 3.2.4
+- Updating: Adding IconBox CarouselShortcode
+- Updating: ahashop-required plugin 1.1.0 version
+
+- Fixing: Adding to cart
+- Fixing: Importing example database
+
+1.1.0
+
+- Updating: Visual Composer 5.3 version
+- Updating: Available with WordPress 4.8.1
+- Updating: Available with Woocommerce 3.1.2
+- Updating: Color customize function
+- Updating: ahashop-required plugin 1.0.3 version
+
+- Fixing: multi dropdown menu
+- Fixing: slider resposive on mobile device
+
+1.0.1
+- Updating: ahashop-required 1.0.2 plugin
+
+- Fixing: style variable product in quickview
+- Fixing: variable product functional in quickiew
+- Fixing: responsive style on mobile device
+
